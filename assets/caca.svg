@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title">
+  <title id="title">Illustration d'un tas de caca</title>
+  <path d="M20 76c-8-5-9-17 0-23-3-10 5-18 15-17 1-13 13-21 25-15 8 4 11 12 8 20 13 2 20 13 15 24 9 8 3 21-9 21H29c-4 0-7-4-9-10z" fill="#8b542d" stroke="#56321d" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M28 69c8 5 36 5 48-1M39 47c6 3 14 3 20 0" fill="none" stroke="#bd8750" stroke-width="4" stroke-linecap="round"/>
+</svg>
